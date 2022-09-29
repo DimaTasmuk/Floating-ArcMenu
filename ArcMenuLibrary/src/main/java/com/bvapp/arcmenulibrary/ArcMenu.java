@@ -313,7 +313,7 @@ public class ArcMenu extends RelativeLayout
 			//mMenuMargin = mShadowElevation /2 ;
 			mMenuMargin = (int) dpToPx(4);
 
-			mMenuGravity = b.getInt(R.styleable.ArcMenu_menuGravity,
+			mMenuGravity = b.getInt(R.styleable.ArcMenu_arcMenuGravity,
 					CENTER);
 			setMenuGravity(mMenuGravity);
 

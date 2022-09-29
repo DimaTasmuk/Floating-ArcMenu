@@ -57,7 +57,7 @@ for the mini menu button.
         android:layout_height="wrap_content"
         arc:menuType="normal"
         arc:menuChildSize="48dp"
-        arc:menuGravity="Right_Middle"
+        arc:arcMenuGravity="Right_Middle"
         arc:menuClickAnim="true"
         arc:menuChildAnim="false"
         arc:menuShadowElevation="true"

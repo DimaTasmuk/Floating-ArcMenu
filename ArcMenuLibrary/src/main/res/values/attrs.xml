@@ -15,7 +15,7 @@
 		<attr name="menuNormalColor" format="color"/>
 		<attr name="menuPressedColor" format="color"/>
 		<attr name="menuRippleColor" format="color"/>
-		<attr name="menuGravity" format="integer">
+		<attr name="arcMenuGravity" format="integer">
 			<enum name="Top_Left" value="0xF01" />
 			<enum name="Top_Right" value="0xF02" />
 			<enum name="Top_Middle" value="0xF03" />

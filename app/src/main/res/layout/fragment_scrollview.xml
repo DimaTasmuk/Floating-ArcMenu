@@ -32,7 +32,7 @@
         android:layout_height="wrap_content"
         arc:menuType="normal"
         arc:menuChildSize="48dp"
-        arc:menuGravity="Bottom_Right"
+        arc:arcMenuGravity="Bottom_Right"
         arc:menuClickAnim="true"
         arc:menuChildAnim="false"
         arc:menuShadowElevation="true"
